@@ -26,6 +26,10 @@ li {
   margin-right: 10px;
 }
 
+div {
+  margin-bottom: 6px;
+}
+
 .input-area {
   background-color: #00fa9a;
   width: 400px;
