@@ -22,7 +22,7 @@ button:hover {
   cursor: pointer;
 }
 
-p {
+li {
   margin-right: 10px;
 }
 
@@ -65,4 +65,5 @@ p {
 .list-row {
   display: flex;
   align-items: center;
+  margin-top: 0px;
 }
