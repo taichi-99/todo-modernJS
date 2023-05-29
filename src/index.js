@@ -51,7 +51,7 @@ const createIncompleteList = (text) => {
 
       //テキスト所得
       const text = backButton.parentNode.firstElementChild.innerText;
-      console.log(text);
+      createIncompleteList(text);
     });
 
     // button(削除)生成
